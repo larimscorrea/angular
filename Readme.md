@@ -1,0 +1,1 @@
+iniciar python3 arquivo.py
